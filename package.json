@@ -1,6 +1,6 @@
 {
   "name": "restaurant-static",
-  "homepage": "https://nithul-m.github.io/react-app-with-multiple-components",
+  "homepage": "https://Nithul-m.github.io/react-with-multilple-components",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -21,7 +21,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-      "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
